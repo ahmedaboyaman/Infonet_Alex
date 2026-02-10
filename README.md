@@ -21,7 +21,7 @@ This project proves how a traditional business can dominate the digital market t
 * **Primary:** Project coordination, **Media Buying & Ad Operations**, and GitHub documentation.
 * **Secondary:** Presentation delivery, high-level strategy, and **Team Mentoring**.
 
-**Abdelrahman** – *Digital Strategist*
+**Abdelrahman Ahmed** – *Digital Strategist*
 * **Primary:** Market research, competitor analysis, and content strategy.
 * **Secondary:** Copywriting (Scriptwriting & Ad Copy).
 
@@ -33,7 +33,7 @@ This project proves how a traditional business can dominate the digital market t
 * **Primary:** Ad campaign management, targeting strategy, and budget allocation.
 * **Secondary:** Analytics, performance tracking, and ROI optimization.
 
-**Salsabil** – *Operations Manager & Social Media Lead*
+**Salsabil Mohamed** – *Operations Manager & Social Media Lead*
 * **Primary:** Social Media Management (Publishing & Community), **Photography Direction**, and Workflow Organization.
 * **Secondary:** Quality Assurance (QA), Timeline management, and Performance Reporting.
 
